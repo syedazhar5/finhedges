@@ -5,14 +5,14 @@
 <br>
 <div class="container">
     <div class="row">
-        <div class="col-xl-4">
+        <div class="col-xl-3">
             <div class="card">
-                <img class="card-img-top img-fluid" src="images\icon-01.jpg" alt="Card image cap" height="15" width="15">
+                <img class="card-img-top img-fluid" src="images\unlisted.jpg" alt="Card image cap">
                 <div class="card-body p-3">
                     <blockquote class="blockquote mb-0">
                         <h4 class="card-title mt-0">UNLISTED SHARES </h4>
                         <p class="card-text text-muted font-size-13">An unlisted security is a financial instrument that
-                            is not traded on a formal exchange because it does not meet listing requirements. 
+                            is not traded on a formal exchange because it does not meet listing requirements.
                         </p>
                     </blockquote>
                 </div>
@@ -20,9 +20,9 @@
         </div>
     </div>
     <div class="row mt-5">
-        <div class="col-xl-4">
+        <div class="col-xl-3">
             <div class="card">
-                <img class="card-img-top img-fluid" src="images\icon-01.jpg" alt="Card image cap" height="15" width="15">
+                <img class="card-img-top img-fluid" src="images\AlgoTrading.jpg" alt="Card image cap">
                 <div class="card-body p-3">
                     <blockquote class="blockquote mb-0">
                         <h4 class="card-title mt-0">ALGO TRADING</h4>
@@ -36,9 +36,9 @@
         </div>
     </div>
     <div class="row mt-5 mb-5">
-        <div class="col-xl-4">
+        <div class="col-xl-3">
             <div class="card">
-                <img class="card-img-top img-fluid" src="images\icon-01.jpg" alt="Card image cap" height="15" width="15">
+                <img class="card-img-top img-fluid" src="images\hedge.jpg" alt="Card image cap">
                 <div class="card-body p-3">
                     <blockquote class="blockquote mb-0">
                         <h4 class="card-title mt-0">HEDGING SERVICES </h4>
