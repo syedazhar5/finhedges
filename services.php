@@ -1,9 +1,5 @@
-<?php include_once('templates/header.php')  ?>
-<br>
-<br>
-<br>
-<br>
-<div class="container">
+<?php include_once('templates/header.php')  ?>  
+<div class="container-fluid mt-4">
     <div class="row">
         <div class="col-lg-3">
             <div class="card">
@@ -152,4 +148,4 @@
         </div>
     </div>
 </div>
-<?php include_once('templates/footer.php')  ?>
+<?php include('templates/footer.php'); ?>
