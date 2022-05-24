@@ -11,12 +11,12 @@
 
                     <div class="form-label-group">
                         <input type="name" id="inputName" class="form-control" name="name" placeholder="Name" required="" autofocus="">
-                        <label for="inputEmail">Name</label>
+                        <label for="inputName">Name</label>
                     </div>
 
                     <div class="form-label-group">
                         <input type="number" id="inputNumber" class="form-control" name="contact" placeholder="Contact No." required="" autofocus="">
-                        <label for="inputEmail">Contact No.</label>
+                        <label for="inputNumber">Contact No.</label>
                     </div>
 
                     <div class="form-label-group">

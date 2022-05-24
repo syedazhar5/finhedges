@@ -6,7 +6,7 @@ function getConnection()
   $servername = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "enrol";
+  $dbname = "finhedges";
 
   //create connection
   $conn = new mysqli($servername, $username, $password, $dbname);

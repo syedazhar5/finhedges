@@ -31,6 +31,9 @@
         <div class="container-fluid">
             <img src="images\icon-01.jpg" class="rounded-circle" width="45" height="45" href="index.php" alt="logo">
             <a class="navbar-brand m-2" href="index.php">FinHedges</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
             <div class="collapse navbar-collapse " id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
