@@ -1,6 +1,6 @@
-<?php include_once('templates/header.php')  ?>  
-<div class="container-fluid mt-4">
-    <div class="row">
+<?php include('templates/header.php')  ?>  
+<div class="container-fluid">
+    <div class="row mt-3">
         <div class="col-lg-3">
             <div class="card">
                 <img class="card-img-top img-fluid" src="images\abc.jpg" alt="Card image cap">

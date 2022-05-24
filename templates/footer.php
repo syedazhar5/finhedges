@@ -1,10 +1,10 @@
 <footer class="container">
     <div class="row">
-        <div class="col-12 col-md mt-3 mb-3">
+        <div class="col-12 col-md mt-1 mb-3">
             <img src="images\icon-01.jpg" class="rounded-circle" width="150" height="150" href="index.php" alt="logo">
 
         </div>
-        <div class="col-6 col-md">
+        <div class="col-6 col-md col-lg col-xl">
             <h5>Social Media Links</h5>
             <div class="social_footer_ul">
                 <a href="https://www.instagram.com/finhedges/" target="9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK">
