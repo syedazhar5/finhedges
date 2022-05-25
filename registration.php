@@ -3,7 +3,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-6 mt-5">
+            <div class="col-12 mt-5">
                 <form action="process.php" method="post">
                     <div class="text-center">
                         <h1 class="h3 font-weight-normal mt-5">Connect With Us</h1>
@@ -31,9 +31,7 @@
                     <button class="btn btn-lg btn-success btn-block mb-5" type="submit">Register</button>
                 </form>
             </div>
-            <div class="col-6 mt-5">
-                <img src="images\welcome.jfif" height= "360" width="360" alt="logo mt-5">
-            </div>
+            
         </div>
     </div>
 </body>

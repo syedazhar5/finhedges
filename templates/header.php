@@ -35,7 +35,7 @@
                 <span class="navbar-toggler-icon"></span>
               </button>
             <div class="collapse navbar-collapse " id="navbarCollapse">
-                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                <ul class="navbar-nav me-auto mb-md-0">
                     <li class="nav-item">
                         <a class="nav-link active" href="demat.php">Demat</a>
                     </li>
@@ -44,7 +44,7 @@
                     </li>
                 </ul>
                 <form action="https://learn.finhedges.com/" class="d-flex">
-                    <button class="btn btn-outline-success btn-md text-active m-2 p-2" type="submit">Learn with
+                    <button class="btn btn-outline-success btn-md text-active" type="submit">Learn with
                         Us</button>
                 </form>
             </div>

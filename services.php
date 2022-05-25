@@ -1,8 +1,8 @@
 <?php include('templates/header.php')  ?>  
 <div class="container-fluid">
     <div class="row mt-3">
-        <div class="col-lg-3">
-            <div class="card">
+        <div class="col-lg-3 mt-5">
+            <div class="card mt-5">
                 <img class="card-img-top img-fluid" src="images\abc.jpg" alt="Card image cap">
                 <div class="card-body p-3">
                     <blockquote class="blockquote mb-0">
@@ -14,8 +14,8 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-9">
-            <div class="jumbotron">
+        <div class="col-lg-9 mt-5">
+            <div class="jumbotron mt-5">
                 <div class="container">
                     <h1 class="display-6"><b>Unlisted Shares<b></h1>
                     <p class="lead">
