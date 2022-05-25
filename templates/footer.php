@@ -21,7 +21,7 @@
                             SOOON.... </p>
                         <a href="tel:3122310909"
                             style="font-family: sans-serif, sans-serif; letter-spacing: 2px; text-decoration: none; font-weight: 400; font-size: 14px;display:block;"><i
-                                class="icon ion-android-phone-portrait"></i> Call : +91-876789096XX</a>
+                                class="icon ion-android-phone-portrait"></i> Call : +91-9545503000</a>
                         <a href="mailto:info@gmail.com"
                             style="display:block;font-family: sans-serif, sans-serif; letter-spacing: 2px; text-decoration: none; font-weight: 400; font-size: 14px;">
                             <i class="icon ion-android-drafts"></i> info@gmail.com</a>&nbsp;
