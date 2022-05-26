@@ -15,7 +15,7 @@ function getConnection()
   if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
   }
-  echo "Connection Successfull"; 
+  echo "Connected Successfully"; 
 }
 
 ?>
