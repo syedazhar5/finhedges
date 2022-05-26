@@ -11,7 +11,7 @@ $password =htmlspecialchars(stripslashes($_POST['password']));
 $sql = "INSERT INTO registration_form (name,contact,email,password) VALUES ('$name', '$contact', '$email', '$password')";
 
 if ($conn->query($sql) === TRUE) {
-  echo "Registration Successful";
+  echo '<script> alert("task Updated Success fully");</script>';;
   header('refresh:3;url=index.php');
 } else {
   echo "Error: " . $sql . "<br>" . $conn->error;
