@@ -39,7 +39,7 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="demat.php">Demat</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item mr-2">
                         <a class="nav-link active" href="services.php">Services</a>
                     </li>
                 </ul>

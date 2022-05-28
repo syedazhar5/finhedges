@@ -1,4 +1,4 @@
-<div id="1624048883338d" data-cat="117" class="is-section is-box is-section-50 is-static is-bg-dark is-light-text">
+<div id="1624048883338d" data-cat="117" class="is-section is-box is-section-50 is-static is-bg-dark is-light-text m-2">
     <div class="is-boxes" id="1624048883462">
         <div class="is-box-centered" id="1624048883462">
             <div class="is-container container is-content-1200" id="1624048883462">
