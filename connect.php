@@ -1,7 +1,5 @@
 <?php
 
-function getConnection()
-{
   //for local web server 
   $servername = "localhost";
   $username = "root";
@@ -9,13 +7,11 @@ function getConnection()
   $dbname = "finhedges";
 
   //create connection
-  $conn = new mysqli($servername, $username, $password, $dbname);
-
+  $conn = mysqli_connect($servername, $username, $password, $dbname);
   //check connection
-  if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+  
+  if(!$conn) {
+    die("Connection failed:".mysqli_connect_error());
   }
   echo "Connected Successfully"; 
-}
-
 ?>

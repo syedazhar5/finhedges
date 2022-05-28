@@ -1,7 +1,6 @@
 <?php
 
-include('connect.php');
-$conn = getConnection();  
+include('connect.php');  
 
 //create variables
 $name =htmlspecialchars(stripslashes($_POST['name']));
@@ -9,15 +8,14 @@ $contact =htmlspecialchars(stripslashes($_POST['contact']));
 $email =htmlspecialchars(stripslashes($_POST['email']));
 $password =htmlspecialchars(stripslashes($_POST['password']));
 
-$sql = "INSERT INTO registration_form (name,contact,email,password) VALUES ('$name', '$contact', '$email', '$password')";
+mysqli_query($conn, "INSERT INTO registration_form (name, contact, email, password) VALUES('$name', '$contact', '$email', '$password')");
 
-if ($conn->query($sql) === TRUE) {
-  echo '<script> alert("task Updated Success fully");</script>';;
+if (mysqli_affected_rows($conn) > 0)
+ {
+  echo '<script> alert("Registration Successfully")</script>';
   header('refresh:3;url=index.php');
 } else {
-  echo "Error: " . $sql . "<br>" . $conn->error;
+  echo "mysql_error($conn)";
 }
-
-$conn->close();
 
 ?>
