@@ -24,7 +24,7 @@
                                 class="icon ion-android-phone-portrait"></i> Call : +91-9545503000</a>
                         <a href="mailto:info@gmail.com"
                             style="display:block;font-family: sans-serif, sans-serif; letter-spacing: 2px; text-decoration: none; font-weight: 400; font-size: 14px;">
-                            <i class="icon ion-android-drafts"></i> info@gmail.com</a>&nbsp;
+                            <i class="icon ion-android-drafts"></i>support@finhedges.com</a>&nbsp;
                     </div>
 
                     <div class="col-lg-4" id="1614170062088" class="column fourth">

@@ -12,8 +12,8 @@ mysqli_query($conn, "INSERT INTO registration_form (name, contact, email, passwo
 
 if (mysqli_affected_rows($conn) > 0)
  {
-  echo '<script> alert("Registration Successfully")</script>';
-  header('refresh:3;url=index.php');
+  echo '<script> alert("Registration Successfull")</script>';
+  header('refresh:3;url=registration.php');
 } else {
   echo "mysql_error($conn)";
 }

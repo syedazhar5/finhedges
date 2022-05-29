@@ -16,7 +16,6 @@
             <p class="lead">And an even wittier subheading.</p>
         </div>
         <div class="bg-light box-shadow mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
-            <img src="images\abc.jpg" alt="logo" height="400" width="400" >
         </div>
     </div>
     <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
